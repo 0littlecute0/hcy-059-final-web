@@ -1,0 +1,33 @@
+.标题{
+	font-size: 60px;
+	font-family: "黑体";
+	text-align: center;
+	text-shadow: 5px 5px 5px #FF0000;
+	line-height: 200%;
+}
+.图注{
+	font-size: 15px;
+	text-align: center;
+}
+p{
+	font-size: 30px;
+	font-family: "楷体";
+	text-align: justify;
+	line-height: 150%;
+}
+img{
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+}
+#calculator{
+	text-align: center;
+}
+body {background-color:#ff00ff;}
+#map
+{
+	position: absolute;
+	text-align:center;
+	width: 100%;
+	height:80%;
+}
